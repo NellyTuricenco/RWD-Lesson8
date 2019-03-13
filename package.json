@@ -4,9 +4,9 @@
   "description": "RWD-Lesson8_Homework",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sass": "node-sass index.scss > style.css"
   },
-  "repository": {
+  "repository": { 
     "type": "git",
     "url": "git+https://github.com/NellyTuricenco/RWD-Lesson8.git"
   },
